@@ -1,2 +1,2 @@
 # road-damage-detection-classification
-you can use this code to classify damages in images.
+you can use this code to detect and classify the damages in the images.
